@@ -102,8 +102,8 @@ Frontend runs on `http://localhost:3000`
 - `POST /signup` - Register a new user
   ```json
   {
-    "name": "John Doe",
-    "email": "john@example.com",
+    "name": "Advaith G",
+    "email": "Advaith@gmail.com",
     "password": "password123",
     "role": "user"
   }
@@ -112,7 +112,7 @@ Frontend runs on `http://localhost:3000`
 - `POST /login` - Login user
   ```json
   {
-    "email": "john@example.com",
+    "email": "jhomas@gmail.com",
     "password": "password123"
   }
   ```
@@ -184,7 +184,7 @@ This project is open source and available under the MIT License.
 
 ## 👤 Author
 
-DevTrack Team
+Advaith G
 
 ## 🤝 Contributing
 
