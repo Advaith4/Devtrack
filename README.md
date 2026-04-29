@@ -2,6 +2,10 @@
 
 A full-stack MERN (MongoDB, Express, React, Node.js) application for project tracking and team management.
 
+## 🌐 Live Demo
+- **Frontend**: https://devtrack-phi.vercel.app/
+- Deploy Status: Live on Vercel
+
 ## 🚀 Features
 
 - **User Authentication**: Secure signup and login with JWT tokens
